@@ -1,2 +1,2 @@
 # test
-![Alt Text](images/my_image.png)
+![Alt Text](images/test.png)
